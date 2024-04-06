@@ -922,8 +922,8 @@ namespace First_Date_Spark
 
                     Refresh();
 
-                    continueButton.BackColor = Color.FromArgb(206, 185, 177);
-                    continueButton.ForeColor = Color.FromArgb(48, 66, 72);
+                    continueButton.BackColor = Color.FromArgb(171, 112, 72);
+                    continueButton.ForeColor = Color.FromArgb(28, 20, 16);
                     continueButton.Visible = true;
 
                     Refresh();
