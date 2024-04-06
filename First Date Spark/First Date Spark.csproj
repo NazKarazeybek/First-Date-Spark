@@ -185,5 +185,8 @@
   <ItemGroup>
     <None Include="Resources\page28.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\222753__the_matt_freeman__book-sounds-big-page-flip-3.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
