@@ -262,9 +262,6 @@ namespace First_Date_Spark
                     Refresh();
 
                     Thread.Sleep(2000);
-
-                    Refresh();
-
                     this.BackgroundImage = Properties.Resources.page8;
 
                     Refresh();
@@ -702,7 +699,7 @@ namespace First_Date_Spark
 
                     //displaying text
                     textLabel.Text = ""; //clears text
-                    string text20 = "After, we decide to visit one last place. Stepping out of the restaurant, we start walking, thinking about where to go next.";
+                    string text20 = "After, we decide to visit one last place. Going out, we start walking, thinking about where to go next.";
                     foreach (char c in text20)
                     {
                         textLabel.Text += c;
