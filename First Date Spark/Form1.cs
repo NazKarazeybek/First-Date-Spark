@@ -829,6 +829,7 @@ namespace First_Date_Spark
 
                     Refresh();
 
+                    continueButton.Visible = false;
                     this.BackgroundImage = Properties.Resources.page33;
 
                     Refresh();
